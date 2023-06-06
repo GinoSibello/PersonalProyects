@@ -1,0 +1,1 @@
+En este proyecto tome los datos de las carreras de la institucion en la que estudie entre los años 1985 hasta 2010, buscabamos hacer un analisis y un modelo basico de regresion para pronosticar datos.
